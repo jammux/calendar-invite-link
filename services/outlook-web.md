@@ -1,19 +1,8 @@
-# Outlook live
 
-## Official documentation
-There is no official documentation.
-
-## Basic URL
-Outlook Live:  
-`https://outlook.live.com/calendar/deeplink/compose`
 
 Office 365:  
 `https://outlook.office.com/calendar/deeplink/compose`
 
-### Example
-
-Outlook Live:  
-`https://outlook.live.com/calendar/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2023-08-09T19:30:00Z&enddt=2023-08-09T22:30:00Z&subject=Birthday&body=With%20clowns%20and%20stuff&location=North%20Pole`
 
 Office 365:  
 `https://outlook.office.com/calendar/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2023-08-09T19:30:00Z&enddt=2023-08-09T22:30:00Z&subject=Birthday&body=With%20clowns%20and%20stuff&location=North%20Pole`
